@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+	"target": "es5",                          
+	"module": "commonjs",                     
+	"lib": ["es2017"],                             
+	"jsx": "preserve",                     
+	"outDir": "./",                        
+	"rootDir": "./",                       
+	"strict": true,                            
+	"noImplicitAny": true,                 
+	"strictNullChecks": true,              
+	"noImplicitThis": true,                
+	"alwaysStrict": true,                  
+	"noUnusedLocals": true,                
+	"noUnusedParameters": true,            
+	"noImplicitReturns": true,             
+	"noFallthroughCasesInSwitch": true,    
+	"moduleResolution": "node",            
+	"allowSyntheticDefaultImports": true,  
+	"experimentalDecorators": true,        
+	"emitDecoratorMetadata": true         
+	},
+	"exclude": ["node_modules"]
+}
