@@ -28,3 +28,10 @@ You *MUST* use Typescript to complete this exercise.
     0 1 0 1 1
     (Answer: 5)
 
+## Bonus (optional)
+
+Build a user interface that showcases the algorithm, it should include:
+* A form to input number of columns and rows
+* An interface to specify the content of the cells (0 or 1)
+
+Note: you *MUST* use React to complete this section.
